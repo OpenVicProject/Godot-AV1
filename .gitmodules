@@ -1,0 +1,6 @@
+[submodule "addons/godot-av1/deps/dav1d"]
+	path = addons/godot-av1/deps/dav1d
+	url = https://code.videolan.org/videolan/dav1d.git
+[submodule "addons/godot-av1/deps/godot-cpp"]
+	path = addons/godot-av1/deps/godot-cpp
+	url = https://github.com/godotengine/godot-cpp
